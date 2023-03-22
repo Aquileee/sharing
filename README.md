@@ -1,6 +1,6 @@
 Hello, 
 
-*Here you can find a folder named data with all datasets you submitted (clicks and users folders) and new datasests created as asked: 
+*Here you can find a folder named data with all datasets you submitted (clicks and users folders) and new datasets created as asked: 
 
 total_clicks.csv - Task#1
 
