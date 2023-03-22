@@ -14,4 +14,5 @@ Please follow this link:
 
 https://nb.anaconda.cloud/jupyterhub/user/3ff6e758-80e5-4716-a05e-d7db125a99d2/lab/tree/Data%20Engineering%20Academy%20Homework.ipynb
 
+Login: akvile.liumpare@gmail.com
 Password: Vinted2023
